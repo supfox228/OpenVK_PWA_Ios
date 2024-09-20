@@ -1,1 +1,3 @@
-# OpenVK_PWA_Ios
+# OpenVK PWA for Ios
+
+Просто WebClip чтоб OpenVk открывался на весь экран
